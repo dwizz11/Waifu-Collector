@@ -1,5 +1,5 @@
 <?php 
-  echo "Halo bandung";
+
   include('Config/db_connect.php');
   session_start();
 
